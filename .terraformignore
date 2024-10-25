@@ -1,0 +1,25 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Terraform state and backup files
+*.tfstate
+*.tfstate.backup
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.backup
+
+# Terraform plugin and cache directories
+.terraform/
+
+# Terraform lock files (optional, usually included in version control)
+.terraform.lock.hcl
