@@ -19,7 +19,7 @@ Desktop.ini
 *.backup
 
 # Terraform plugin and cache directories
-.terraform/
+*.terraform/
 
 # Terraform lock files (optional, usually included in version control)
 .terraform.lock.hcl
